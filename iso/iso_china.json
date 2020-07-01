@@ -1,0 +1,1346 @@
+[
+	{
+		"Countries and Regions": "Angola",
+		"Chinese Name": "安哥拉",
+		"ISO 2": "AO",
+		"Mobile Zone": "244",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Afghanistan",
+		"Chinese Name": "阿富汗",
+		"ISO 2": "AF",
+		"Mobile Zone": "93",
+		"Time Zone": "0"
+	},
+	{
+		"Countries and Regions": "Albania",
+		"Chinese Name": "阿尔巴尼亚",
+		"ISO 2": "AL",
+		"Mobile Zone": "355",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Algeria",
+		"Chinese Name": "阿尔及利亚",
+		"ISO 2": "DZ",
+		"Mobile Zone": "213",
+		"Time Zone": "-8"
+	},
+	{
+		"Countries and Regions": "Andorra",
+		"Chinese Name": "安道尔共和国",
+		"ISO 2": "AD",
+		"Mobile Zone": "376",
+		"Time Zone": "-8"
+	},
+	{
+		"Countries and Regions": "Anguilla",
+		"Chinese Name": "安圭拉岛",
+		"ISO 2": "AI",
+		"Mobile Zone": "1264",
+		"Time Zone": "-12"
+	},
+	{
+		"Countries and Regions": "Antigua and Barbuda",
+		"Chinese Name": "安提瓜和巴布达",
+		"ISO 2": "AG",
+		"Mobile Zone": "1268",
+		"Time Zone": "-12"
+	},
+	{
+		"Countries and Regions": "Argentina",
+		"Chinese Name": "阿根廷",
+		"ISO 2": "AR",
+		"Mobile Zone": "54",
+		"Time Zone": "-11"
+	},
+	{
+		"Countries and Regions": "Armenia",
+		"Chinese Name": "亚美尼亚",
+		"ISO 2": "AM",
+		"Mobile Zone": "374",
+		"Time Zone": "-6"
+	},
+	{
+		"Countries and Regions": "Ascension",
+		"Chinese Name": "阿森松",
+		"ISO 2": "",
+		"Mobile Zone": "247",
+		"Time Zone": "-8"
+	},
+	{
+		"Countries and Regions": "Australia",
+		"Chinese Name": "澳大利亚",
+		"ISO 2": "AU",
+		"Mobile Zone": "61",
+		"Time Zone": "2"
+	},
+	{
+		"Countries and Regions": "Austria",
+		"Chinese Name": "奥地利",
+		"ISO 2": "AT",
+		"Mobile Zone": "43",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Azerbaijan",
+		"Chinese Name": "阿塞拜疆",
+		"ISO 2": "AZ",
+		"Mobile Zone": "994",
+		"Time Zone": "-5"
+	},
+	{
+		"Countries and Regions": "Bahamas",
+		"Chinese Name": "巴哈马",
+		"ISO 2": "BS",
+		"Mobile Zone": "1242",
+		"Time Zone": "-13"
+	},
+	{
+		"Countries and Regions": "Bahrain",
+		"Chinese Name": "巴林",
+		"ISO 2": "BH",
+		"Mobile Zone": "973",
+		"Time Zone": "-5"
+	},
+	{
+		"Countries and Regions": "Bangladesh",
+		"Chinese Name": "孟加拉国",
+		"ISO 2": "BD",
+		"Mobile Zone": "880",
+		"Time Zone": "-2"
+	},
+	{
+		"Countries and Regions": "Barbados",
+		"Chinese Name": "巴巴多斯",
+		"ISO 2": "BB",
+		"Mobile Zone": "1246",
+		"Time Zone": "-12"
+	},
+	{
+		"Countries and Regions": "Belarus",
+		"Chinese Name": "白俄罗斯",
+		"ISO 2": "BY",
+		"Mobile Zone": "375",
+		"Time Zone": "-6"
+	},
+	{
+		"Countries and Regions": "Belgium",
+		"Chinese Name": "比利时",
+		"ISO 2": "BE",
+		"Mobile Zone": "32",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Belize",
+		"Chinese Name": "伯利兹",
+		"ISO 2": "BZ",
+		"Mobile Zone": "501",
+		"Time Zone": "-14"
+	},
+	{
+		"Countries and Regions": "Benin",
+		"Chinese Name": "贝宁",
+		"ISO 2": "BJ",
+		"Mobile Zone": "229",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Bermuda Is.",
+		"Chinese Name": "百慕大群岛",
+		"ISO 2": "BM",
+		"Mobile Zone": "1441",
+		"Time Zone": "-12"
+	},
+	{
+		"Countries and Regions": "Bolivia",
+		"Chinese Name": "玻利维亚",
+		"ISO 2": "BO",
+		"Mobile Zone": "591",
+		"Time Zone": "-12"
+	},
+	{
+		"Countries and Regions": "Botswana",
+		"Chinese Name": "博茨瓦纳",
+		"ISO 2": "BW",
+		"Mobile Zone": "267",
+		"Time Zone": "-6"
+	},
+	{
+		"Countries and Regions": "Brazil",
+		"Chinese Name": "巴西",
+		"ISO 2": "BR",
+		"Mobile Zone": "55",
+		"Time Zone": "-11"
+	},
+	{
+		"Countries and Regions": "Brunei",
+		"Chinese Name": "文莱",
+		"ISO 2": "BN",
+		"Mobile Zone": "673",
+		"Time Zone": "0"
+	},
+	{
+		"Countries and Regions": "Bulgaria",
+		"Chinese Name": "保加利亚",
+		"ISO 2": "BG",
+		"Mobile Zone": "359",
+		"Time Zone": "-6"
+	},
+	{
+		"Countries and Regions": "Burkina-faso",
+		"Chinese Name": "布基纳法索",
+		"ISO 2": "BF",
+		"Mobile Zone": "226",
+		"Time Zone": "-8"
+	},
+	{
+		"Countries and Regions": "Burma",
+		"Chinese Name": "缅甸",
+		"ISO 2": "MM",
+		"Mobile Zone": "95",
+		"Time Zone": "-1.3"
+	},
+	{
+		"Countries and Regions": "Burundi",
+		"Chinese Name": "布隆迪",
+		"ISO 2": "BI",
+		"Mobile Zone": "257",
+		"Time Zone": "-6"
+	},
+	{
+		"Countries and Regions": "Cameroon",
+		"Chinese Name": "喀麦隆",
+		"ISO 2": "CM",
+		"Mobile Zone": "237",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Canada",
+		"Chinese Name": "加拿大",
+		"ISO 2": "CA",
+		"Mobile Zone": "1",
+		"Time Zone": "-13"
+	},
+	{
+		"Countries and Regions": "Cayman Is.",
+		"Chinese Name": "开曼群岛",
+		"ISO 2": "",
+		"Mobile Zone": "1345",
+		"Time Zone": "-13"
+	},
+	{
+		"Countries and Regions": "Central African Republic",
+		"Chinese Name": "中非共和国",
+		"ISO 2": "CF",
+		"Mobile Zone": "236",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Chad",
+		"Chinese Name": "乍得",
+		"ISO 2": "TD",
+		"Mobile Zone": "235",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Chile",
+		"Chinese Name": "智利",
+		"ISO 2": "CL",
+		"Mobile Zone": "56",
+		"Time Zone": "-13"
+	},
+	{
+		"Countries and Regions": "China",
+		"Chinese Name": "中国",
+		"ISO 2": "CN",
+		"Mobile Zone": "86",
+		"Time Zone": "0"
+	},
+	{
+		"Countries and Regions": "Colombia",
+		"Chinese Name": "哥伦比亚",
+		"ISO 2": "CO",
+		"Mobile Zone": "57",
+		"Time Zone": "0"
+	},
+	{
+		"Countries and Regions": "Congo",
+		"Chinese Name": "刚果",
+		"ISO 2": "CG",
+		"Mobile Zone": "242",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Cook Is.",
+		"Chinese Name": "库克群岛",
+		"ISO 2": "CK",
+		"Mobile Zone": "682",
+		"Time Zone": "-18.3"
+	},
+	{
+		"Countries and Regions": "Costa Rica",
+		"Chinese Name": "哥斯达黎加",
+		"ISO 2": "CR",
+		"Mobile Zone": "506",
+		"Time Zone": "-14"
+	},
+	{
+		"Countries and Regions": "Cuba",
+		"Chinese Name": "古巴",
+		"ISO 2": "CU",
+		"Mobile Zone": "53",
+		"Time Zone": "-13"
+	},
+	{
+		"Countries and Regions": "Cyprus",
+		"Chinese Name": "塞浦路斯",
+		"ISO 2": "CY",
+		"Mobile Zone": "357",
+		"Time Zone": "-6"
+	},
+	{
+		"Countries and Regions": "Czech Republic",
+		"Chinese Name": "捷克",
+		"ISO 2": "CZ",
+		"Mobile Zone": "420",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Denmark",
+		"Chinese Name": "丹麦",
+		"ISO 2": "DK",
+		"Mobile Zone": "45",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Djibouti",
+		"Chinese Name": "吉布提",
+		"ISO 2": "DJ",
+		"Mobile Zone": "253",
+		"Time Zone": "-5"
+	},
+	{
+		"Countries and Regions": "Dominica Rep.",
+		"Chinese Name": "多米尼加共和国",
+		"ISO 2": "DO",
+		"Mobile Zone": "1890",
+		"Time Zone": "-13"
+	},
+	{
+		"Countries and Regions": "Ecuador",
+		"Chinese Name": "厄瓜多尔",
+		"ISO 2": "EC",
+		"Mobile Zone": "593",
+		"Time Zone": "-13"
+	},
+	{
+		"Countries and Regions": "Egypt",
+		"Chinese Name": "埃及",
+		"ISO 2": "EG",
+		"Mobile Zone": "20",
+		"Time Zone": "-6"
+	},
+	{
+		"Countries and Regions": "EI Salvador",
+		"Chinese Name": "萨尔瓦多",
+		"ISO 2": "SV",
+		"Mobile Zone": "503",
+		"Time Zone": "-14"
+	},
+	{
+		"Countries and Regions": "Estonia",
+		"Chinese Name": "爱沙尼亚",
+		"ISO 2": "EE",
+		"Mobile Zone": "372",
+		"Time Zone": "-5"
+	},
+	{
+		"Countries and Regions": "Ethiopia",
+		"Chinese Name": "埃塞俄比亚",
+		"ISO 2": "ET",
+		"Mobile Zone": "251",
+		"Time Zone": "-5"
+	},
+	{
+		"Countries and Regions": "Fiji",
+		"Chinese Name": "斐济",
+		"ISO 2": "FJ",
+		"Mobile Zone": "679",
+		"Time Zone": "4"
+	},
+	{
+		"Countries and Regions": "Finland",
+		"Chinese Name": "芬兰",
+		"ISO 2": "FI",
+		"Mobile Zone": "358",
+		"Time Zone": "-6"
+	},
+	{
+		"Countries and Regions": "France",
+		"Chinese Name": "法国",
+		"ISO 2": "FR",
+		"Mobile Zone": "33",
+		"Time Zone": "-8"
+	},
+	{
+		"Countries and Regions": "French Guiana",
+		"Chinese Name": "法属圭亚那",
+		"ISO 2": "GF",
+		"Mobile Zone": "594",
+		"Time Zone": "-12"
+	},
+	{
+		"Countries and Regions": "Gabon",
+		"Chinese Name": "加蓬",
+		"ISO 2": "GA",
+		"Mobile Zone": "241",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Gambia",
+		"Chinese Name": "冈比亚",
+		"ISO 2": "GM",
+		"Mobile Zone": "220",
+		"Time Zone": "-8"
+	},
+	{
+		"Countries and Regions": "Georgia",
+		"Chinese Name": "格鲁吉亚",
+		"ISO 2": "GE",
+		"Mobile Zone": "995",
+		"Time Zone": "0"
+	},
+	{
+		"Countries and Regions": "Germany",
+		"Chinese Name": "德国",
+		"ISO 2": "DE",
+		"Mobile Zone": "49",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Ghana",
+		"Chinese Name": "加纳",
+		"ISO 2": "GH",
+		"Mobile Zone": "233",
+		"Time Zone": "-8"
+	},
+	{
+		"Countries and Regions": "Gibraltar",
+		"Chinese Name": "直布罗陀",
+		"ISO 2": "GI",
+		"Mobile Zone": "350",
+		"Time Zone": "-8"
+	},
+	{
+		"Countries and Regions": "Greece",
+		"Chinese Name": "希腊",
+		"ISO 2": "GR",
+		"Mobile Zone": "30",
+		"Time Zone": "-6"
+	},
+	{
+		"Countries and Regions": "Grenada",
+		"Chinese Name": "格林纳达",
+		"ISO 2": "GD",
+		"Mobile Zone": "1809",
+		"Time Zone": "-14"
+	},
+	{
+		"Countries and Regions": "Guam",
+		"Chinese Name": "关岛",
+		"ISO 2": "GU",
+		"Mobile Zone": "1671",
+		"Time Zone": "2"
+	},
+	{
+		"Countries and Regions": "Guatemala",
+		"Chinese Name": "危地马拉",
+		"ISO 2": "GT",
+		"Mobile Zone": "502",
+		"Time Zone": "-14"
+	},
+	{
+		"Countries and Regions": "Guinea",
+		"Chinese Name": "几内亚",
+		"ISO 2": "GN",
+		"Mobile Zone": "224",
+		"Time Zone": "-8"
+	},
+	{
+		"Countries and Regions": "Guyana",
+		"Chinese Name": "圭亚那",
+		"ISO 2": "GY",
+		"Mobile Zone": "592",
+		"Time Zone": "-11"
+	},
+	{
+		"Countries and Regions": "Haiti",
+		"Chinese Name": "海地",
+		"ISO 2": "HT",
+		"Mobile Zone": "509",
+		"Time Zone": "-13"
+	},
+	{
+		"Countries and Regions": "Honduras",
+		"Chinese Name": "洪都拉斯",
+		"ISO 2": "HN",
+		"Mobile Zone": "504",
+		"Time Zone": "-14"
+	},
+	{
+		"Countries and Regions": "Hongkong",
+		"Chinese Name": "香港",
+		"ISO 2": "HK",
+		"Mobile Zone": "852",
+		"Time Zone": "0"
+	},
+	{
+		"Countries and Regions": "Hungary",
+		"Chinese Name": "匈牙利",
+		"ISO 2": "HU",
+		"Mobile Zone": "36",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Iceland",
+		"Chinese Name": "冰岛",
+		"ISO 2": "IS",
+		"Mobile Zone": "354",
+		"Time Zone": "-9"
+	},
+	{
+		"Countries and Regions": "India",
+		"Chinese Name": "印度",
+		"ISO 2": "IN",
+		"Mobile Zone": "91",
+		"Time Zone": "-2.2999999999999998"
+	},
+	{
+		"Countries and Regions": "Indonesia",
+		"Chinese Name": "印度尼西亚",
+		"ISO 2": "ID",
+		"Mobile Zone": "62",
+		"Time Zone": "-0.3"
+	},
+	{
+		"Countries and Regions": "Iran",
+		"Chinese Name": "伊朗",
+		"ISO 2": "IR",
+		"Mobile Zone": "98",
+		"Time Zone": "-4.3"
+	},
+	{
+		"Countries and Regions": "Iraq",
+		"Chinese Name": "伊拉克",
+		"ISO 2": "IQ",
+		"Mobile Zone": "964",
+		"Time Zone": "-5"
+	},
+	{
+		"Countries and Regions": "Ireland",
+		"Chinese Name": "爱尔兰",
+		"ISO 2": "IE",
+		"Mobile Zone": "353",
+		"Time Zone": "-4.3"
+	},
+	{
+		"Countries and Regions": "Israel",
+		"Chinese Name": "以色列",
+		"ISO 2": "IL",
+		"Mobile Zone": "972",
+		"Time Zone": "-6"
+	},
+	{
+		"Countries and Regions": "Italy",
+		"Chinese Name": "意大利",
+		"ISO 2": "IT",
+		"Mobile Zone": "39",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Ivory Coast",
+		"Chinese Name": "科特迪瓦",
+		"ISO 2": "",
+		"Mobile Zone": "225",
+		"Time Zone": "-6"
+	},
+	{
+		"Countries and Regions": "Jamaica",
+		"Chinese Name": "牙买加",
+		"ISO 2": "JM",
+		"Mobile Zone": "1876",
+		"Time Zone": "-12"
+	},
+	{
+		"Countries and Regions": "Japan",
+		"Chinese Name": "日本",
+		"ISO 2": "JP",
+		"Mobile Zone": "81",
+		"Time Zone": "1"
+	},
+	{
+		"Countries and Regions": "Jordan",
+		"Chinese Name": "约旦",
+		"ISO 2": "JO",
+		"Mobile Zone": "962",
+		"Time Zone": "-6"
+	},
+	{
+		"Countries and Regions": "Kampuchea (Cambodia )",
+		"Chinese Name": "柬埔寨",
+		"ISO 2": "KH",
+		"Mobile Zone": "855",
+		"Time Zone": "-1"
+	},
+	{
+		"Countries and Regions": "Kazakstan",
+		"Chinese Name": "哈萨克斯坦",
+		"ISO 2": "KZ",
+		"Mobile Zone": "327",
+		"Time Zone": "-5"
+	},
+	{
+		"Countries and Regions": "Kenya",
+		"Chinese Name": "肯尼亚",
+		"ISO 2": "KE",
+		"Mobile Zone": "254",
+		"Time Zone": "-5"
+	},
+	{
+		"Countries and Regions": "Korea",
+		"Chinese Name": "韩国",
+		"ISO 2": "KR",
+		"Mobile Zone": "82",
+		"Time Zone": "1"
+	},
+	{
+		"Countries and Regions": "Kuwait",
+		"Chinese Name": "科威特",
+		"ISO 2": "KW",
+		"Mobile Zone": "965",
+		"Time Zone": "-5"
+	},
+	{
+		"Countries and Regions": "Kyrgyzstan",
+		"Chinese Name": "吉尔吉斯坦",
+		"ISO 2": "KG",
+		"Mobile Zone": "331",
+		"Time Zone": "-5"
+	},
+	{
+		"Countries and Regions": "Laos",
+		"Chinese Name": "老挝",
+		"ISO 2": "LA",
+		"Mobile Zone": "856",
+		"Time Zone": "-1"
+	},
+	{
+		"Countries and Regions": "Latvia",
+		"Chinese Name": "拉脱维亚",
+		"ISO 2": "LV",
+		"Mobile Zone": "371",
+		"Time Zone": "-5"
+	},
+	{
+		"Countries and Regions": "Lebanon",
+		"Chinese Name": "黎巴嫩",
+		"ISO 2": "LB",
+		"Mobile Zone": "961",
+		"Time Zone": "-6"
+	},
+	{
+		"Countries and Regions": "Lesotho",
+		"Chinese Name": "莱索托",
+		"ISO 2": "LS",
+		"Mobile Zone": "266",
+		"Time Zone": "-6"
+	},
+	{
+		"Countries and Regions": "Liberia",
+		"Chinese Name": "利比里亚",
+		"ISO 2": "LR",
+		"Mobile Zone": "231",
+		"Time Zone": "-8"
+	},
+	{
+		"Countries and Regions": "Libya",
+		"Chinese Name": "利比亚",
+		"ISO 2": "LY",
+		"Mobile Zone": "218",
+		"Time Zone": "-6"
+	},
+	{
+		"Countries and Regions": "Liechtenstein",
+		"Chinese Name": "列支敦士登",
+		"ISO 2": "LI",
+		"Mobile Zone": "423",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Lithuania",
+		"Chinese Name": "立陶宛",
+		"ISO 2": "LT",
+		"Mobile Zone": "370",
+		"Time Zone": "-5"
+	},
+	{
+		"Countries and Regions": "Luxembourg",
+		"Chinese Name": "卢森堡",
+		"ISO 2": "LU",
+		"Mobile Zone": "352",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Macao",
+		"Chinese Name": "澳门",
+		"ISO 2": "MO",
+		"Mobile Zone": "853",
+		"Time Zone": "0"
+	},
+	{
+		"Countries and Regions": "Madagascar",
+		"Chinese Name": "马达加斯加",
+		"ISO 2": "MG",
+		"Mobile Zone": "261",
+		"Time Zone": "-5"
+	},
+	{
+		"Countries and Regions": "Malawi",
+		"Chinese Name": "马拉维",
+		"ISO 2": "MW",
+		"Mobile Zone": "265",
+		"Time Zone": "-6"
+	},
+	{
+		"Countries and Regions": "Malaysia",
+		"Chinese Name": "马来西亚",
+		"ISO 2": "MY",
+		"Mobile Zone": "60",
+		"Time Zone": "-0.5"
+	},
+	{
+		"Countries and Regions": "Maldives",
+		"Chinese Name": "马尔代夫",
+		"ISO 2": "MV",
+		"Mobile Zone": "960",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Mali",
+		"Chinese Name": "马里",
+		"ISO 2": "ML",
+		"Mobile Zone": "223",
+		"Time Zone": "-8"
+	},
+	{
+		"Countries and Regions": "Malta",
+		"Chinese Name": "马耳他",
+		"ISO 2": "MT",
+		"Mobile Zone": "356",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Mariana Is",
+		"Chinese Name": "马里亚那群岛",
+		"ISO 2": "",
+		"Mobile Zone": "1670",
+		"Time Zone": "1"
+	},
+	{
+		"Countries and Regions": "Martinique",
+		"Chinese Name": "马提尼克",
+		"ISO 2": "",
+		"Mobile Zone": "596",
+		"Time Zone": "-12"
+	},
+	{
+		"Countries and Regions": "Mauritius",
+		"Chinese Name": "毛里求斯",
+		"ISO 2": "MU",
+		"Mobile Zone": "230",
+		"Time Zone": "-4"
+	},
+	{
+		"Countries and Regions": "Mexico",
+		"Chinese Name": "墨西哥",
+		"ISO 2": "MX",
+		"Mobile Zone": "52",
+		"Time Zone": "-15"
+	},
+	{
+		"Countries and Regions": "Moldova Republic of",
+		"Chinese Name": "摩尔多瓦",
+		"ISO 2": "MD",
+		"Mobile Zone": "373",
+		"Time Zone": "-5"
+	},
+	{
+		"Countries and Regions": "Monaco",
+		"Chinese Name": "摩纳哥",
+		"ISO 2": "MC",
+		"Mobile Zone": "377",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Mongolia",
+		"Chinese Name": "蒙古",
+		"ISO 2": "MN",
+		"Mobile Zone": "976",
+		"Time Zone": "0"
+	},
+	{
+		"Countries and Regions": "Montserrat Is",
+		"Chinese Name": "蒙特塞拉特岛",
+		"ISO 2": "MS",
+		"Mobile Zone": "1664",
+		"Time Zone": "-12"
+	},
+	{
+		"Countries and Regions": "Morocco",
+		"Chinese Name": "摩洛哥",
+		"ISO 2": "MA",
+		"Mobile Zone": "212",
+		"Time Zone": "-6"
+	},
+	{
+		"Countries and Regions": "Mozambique",
+		"Chinese Name": "莫桑比克",
+		"ISO 2": "MZ",
+		"Mobile Zone": "258",
+		"Time Zone": "-6"
+	},
+	{
+		"Countries and Regions": "Namibia",
+		"Chinese Name": "纳米比亚",
+		"ISO 2": "NA",
+		"Mobile Zone": "264",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Nauru",
+		"Chinese Name": "瑙鲁",
+		"ISO 2": "NR",
+		"Mobile Zone": "674",
+		"Time Zone": "4"
+	},
+	{
+		"Countries and Regions": "Nepal",
+		"Chinese Name": "尼泊尔",
+		"ISO 2": "NP",
+		"Mobile Zone": "977",
+		"Time Zone": "-2.2999999999999998"
+	},
+	{
+		"Countries and Regions": "Netheriands Antilles",
+		"Chinese Name": "荷属安的列斯",
+		"ISO 2": "",
+		"Mobile Zone": "599",
+		"Time Zone": "-12"
+	},
+	{
+		"Countries and Regions": "Netherlands",
+		"Chinese Name": "荷兰",
+		"ISO 2": "NL",
+		"Mobile Zone": "31",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "New Zealand",
+		"Chinese Name": "新西兰",
+		"ISO 2": "NZ",
+		"Mobile Zone": "64",
+		"Time Zone": "4"
+	},
+	{
+		"Countries and Regions": "Nicaragua",
+		"Chinese Name": "尼加拉瓜",
+		"ISO 2": "NI",
+		"Mobile Zone": "505",
+		"Time Zone": "-14"
+	},
+	{
+		"Countries and Regions": "Niger",
+		"Chinese Name": "尼日尔",
+		"ISO 2": "NE",
+		"Mobile Zone": "227",
+		"Time Zone": "-8"
+	},
+	{
+		"Countries and Regions": "Nigeria",
+		"Chinese Name": "尼日利亚",
+		"ISO 2": "NG",
+		"Mobile Zone": "234",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "North Korea",
+		"Chinese Name": "朝鲜",
+		"ISO 2": "KP",
+		"Mobile Zone": "850",
+		"Time Zone": "1"
+	},
+	{
+		"Countries and Regions": "Norway",
+		"Chinese Name": "挪威",
+		"ISO 2": "NO",
+		"Mobile Zone": "47",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Oman",
+		"Chinese Name": "阿曼",
+		"ISO 2": "OM",
+		"Mobile Zone": "968",
+		"Time Zone": "-4"
+	},
+	{
+		"Countries and Regions": "Pakistan",
+		"Chinese Name": "巴基斯坦",
+		"ISO 2": "PK",
+		"Mobile Zone": "92",
+		"Time Zone": "-2.2999999999999998"
+	},
+	{
+		"Countries and Regions": "Panama",
+		"Chinese Name": "巴拿马",
+		"ISO 2": "PA",
+		"Mobile Zone": "507",
+		"Time Zone": "-13"
+	},
+	{
+		"Countries and Regions": "Papua New Cuinea",
+		"Chinese Name": "巴布亚新几内亚",
+		"ISO 2": "PG",
+		"Mobile Zone": "675",
+		"Time Zone": "2"
+	},
+	{
+		"Countries and Regions": "Paraguay",
+		"Chinese Name": "巴拉圭",
+		"ISO 2": "PY",
+		"Mobile Zone": "595",
+		"Time Zone": "-12"
+	},
+	{
+		"Countries and Regions": "Peru",
+		"Chinese Name": "秘鲁",
+		"ISO 2": "PE",
+		"Mobile Zone": "51",
+		"Time Zone": "-13"
+	},
+	{
+		"Countries and Regions": "Philippines",
+		"Chinese Name": "菲律宾",
+		"ISO 2": "PH",
+		"Mobile Zone": "63",
+		"Time Zone": "0"
+	},
+	{
+		"Countries and Regions": "Poland",
+		"Chinese Name": "波兰",
+		"ISO 2": "PL",
+		"Mobile Zone": "48",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "French Polynesia",
+		"Chinese Name": "法属玻利尼西亚",
+		"ISO 2": "PF",
+		"Mobile Zone": "689",
+		"Time Zone": "3"
+	},
+	{
+		"Countries and Regions": "Portugal",
+		"Chinese Name": "葡萄牙",
+		"ISO 2": "PT",
+		"Mobile Zone": "351",
+		"Time Zone": "-8"
+	},
+	{
+		"Countries and Regions": "Puerto Rico",
+		"Chinese Name": "波多黎各",
+		"ISO 2": "PR",
+		"Mobile Zone": "1787",
+		"Time Zone": "-12"
+	},
+	{
+		"Countries and Regions": "Qatar",
+		"Chinese Name": "卡塔尔",
+		"ISO 2": "QA",
+		"Mobile Zone": "974",
+		"Time Zone": "-5"
+	},
+	{
+		"Countries and Regions": "Reunion",
+		"Chinese Name": "留尼旺",
+		"ISO 2": "",
+		"Mobile Zone": "262",
+		"Time Zone": "-4"
+	},
+	{
+		"Countries and Regions": "Romania",
+		"Chinese Name": "罗马尼亚",
+		"ISO 2": "RO",
+		"Mobile Zone": "40",
+		"Time Zone": "-6"
+	},
+	{
+		"Countries and Regions": "Russia",
+		"Chinese Name": "俄罗斯",
+		"ISO 2": "RU",
+		"Mobile Zone": "7",
+		"Time Zone": "-5"
+	},
+	{
+		"Countries and Regions": "Saint Lueia",
+		"Chinese Name": "圣卢西亚",
+		"ISO 2": "LC",
+		"Mobile Zone": "1758",
+		"Time Zone": "-12"
+	},
+	{
+		"Countries and Regions": "Saint Vincent",
+		"Chinese Name": "圣文森特岛",
+		"ISO 2": "VC",
+		"Mobile Zone": "1784",
+		"Time Zone": "-12"
+	},
+	{
+		"Countries and Regions": "Samoa Eastern",
+		"Chinese Name": "东萨摩亚(美)",
+		"ISO 2": "",
+		"Mobile Zone": "684",
+		"Time Zone": "-19"
+	},
+	{
+		"Countries and Regions": "Samoa Western",
+		"Chinese Name": "西萨摩亚",
+		"ISO 2": "",
+		"Mobile Zone": "685",
+		"Time Zone": "-19"
+	},
+	{
+		"Countries and Regions": "San Marino",
+		"Chinese Name": "圣马力诺",
+		"ISO 2": "SM",
+		"Mobile Zone": "378",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Sao Tome and Principe",
+		"Chinese Name": "圣多美和普林西比",
+		"ISO 2": "ST",
+		"Mobile Zone": "239",
+		"Time Zone": "-8"
+	},
+	{
+		"Countries and Regions": "Saudi Arabia",
+		"Chinese Name": "沙特阿拉伯",
+		"ISO 2": "SA",
+		"Mobile Zone": "966",
+		"Time Zone": "-5"
+	},
+	{
+		"Countries and Regions": "Senegal",
+		"Chinese Name": "塞内加尔",
+		"ISO 2": "SN",
+		"Mobile Zone": "221",
+		"Time Zone": "-8"
+	},
+	{
+		"Countries and Regions": "Seychelles",
+		"Chinese Name": "塞舌尔",
+		"ISO 2": "SC",
+		"Mobile Zone": "248",
+		"Time Zone": "-4"
+	},
+	{
+		"Countries and Regions": "Sierra Leone",
+		"Chinese Name": "塞拉利昂",
+		"ISO 2": "SL",
+		"Mobile Zone": "232",
+		"Time Zone": "-8"
+	},
+	{
+		"Countries and Regions": "Singapore",
+		"Chinese Name": "新加坡",
+		"ISO 2": "SG",
+		"Mobile Zone": "65",
+		"Time Zone": "0.3"
+	},
+	{
+		"Countries and Regions": "Slovakia",
+		"Chinese Name": "斯洛伐克",
+		"ISO 2": "SK",
+		"Mobile Zone": "421",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Slovenia",
+		"Chinese Name": "斯洛文尼亚",
+		"ISO 2": "SI",
+		"Mobile Zone": "386",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Solomon Is",
+		"Chinese Name": "所罗门群岛",
+		"ISO 2": "SB",
+		"Mobile Zone": "677",
+		"Time Zone": "3"
+	},
+	{
+		"Countries and Regions": "Somali",
+		"Chinese Name": "索马里",
+		"ISO 2": "SO",
+		"Mobile Zone": "252",
+		"Time Zone": "-5"
+	},
+	{
+		"Countries and Regions": "South Africa",
+		"Chinese Name": "南非",
+		"ISO 2": "ZA",
+		"Mobile Zone": "27",
+		"Time Zone": "-6"
+	},
+	{
+		"Countries and Regions": "Spain",
+		"Chinese Name": "西班牙",
+		"ISO 2": "ES",
+		"Mobile Zone": "34",
+		"Time Zone": "-8"
+	},
+	{
+		"Countries and Regions": "Sri Lanka",
+		"Chinese Name": "斯里兰卡",
+		"ISO 2": "LK",
+		"Mobile Zone": "94",
+		"Time Zone": "0"
+	},
+	{
+		"Countries and Regions": "St.Lucia",
+		"Chinese Name": "圣卢西亚",
+		"ISO 2": "LC",
+		"Mobile Zone": "1758",
+		"Time Zone": "-12"
+	},
+	{
+		"Countries and Regions": "St.Vincent",
+		"Chinese Name": "圣文森特",
+		"ISO 2": "VC",
+		"Mobile Zone": "1784",
+		"Time Zone": "-12"
+	},
+	{
+		"Countries and Regions": "Sudan",
+		"Chinese Name": "苏丹",
+		"ISO 2": "SD",
+		"Mobile Zone": "249",
+		"Time Zone": "-6"
+	},
+	{
+		"Countries and Regions": "Suriname",
+		"Chinese Name": "苏里南",
+		"ISO 2": "SR",
+		"Mobile Zone": "597",
+		"Time Zone": "-11.3"
+	},
+	{
+		"Countries and Regions": "Swaziland",
+		"Chinese Name": "斯威士兰",
+		"ISO 2": "SZ",
+		"Mobile Zone": "268",
+		"Time Zone": "-6"
+	},
+	{
+		"Countries and Regions": "Sweden",
+		"Chinese Name": "瑞典",
+		"ISO 2": "SE",
+		"Mobile Zone": "46",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Switzerland",
+		"Chinese Name": "瑞士",
+		"ISO 2": "CH",
+		"Mobile Zone": "41",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Syria",
+		"Chinese Name": "叙利亚",
+		"ISO 2": "SY",
+		"Mobile Zone": "963",
+		"Time Zone": "-6"
+	},
+	{
+		"Countries and Regions": "Taiwan",
+		"Chinese Name": "台湾省",
+		"ISO 2": "TW",
+		"Mobile Zone": "886",
+		"Time Zone": "0"
+	},
+	{
+		"Countries and Regions": "Tajikstan",
+		"Chinese Name": "塔吉克斯坦",
+		"ISO 2": "TJ",
+		"Mobile Zone": "992",
+		"Time Zone": "-5"
+	},
+	{
+		"Countries and Regions": "Tanzania",
+		"Chinese Name": "坦桑尼亚",
+		"ISO 2": "TZ",
+		"Mobile Zone": "255",
+		"Time Zone": "-5"
+	},
+	{
+		"Countries and Regions": "Thailand",
+		"Chinese Name": "泰国",
+		"ISO 2": "TH",
+		"Mobile Zone": "66",
+		"Time Zone": "-1"
+	},
+	{
+		"Countries and Regions": "Togo",
+		"Chinese Name": "多哥",
+		"ISO 2": "TG",
+		"Mobile Zone": "228",
+		"Time Zone": "-8"
+	},
+	{
+		"Countries and Regions": "Tonga",
+		"Chinese Name": "汤加",
+		"ISO 2": "TO",
+		"Mobile Zone": "676",
+		"Time Zone": "4"
+	},
+	{
+		"Countries and Regions": "Trinidad and Tobago",
+		"Chinese Name": "特立尼达和多巴哥",
+		"ISO 2": "TT",
+		"Mobile Zone": "1809",
+		"Time Zone": "-12"
+	},
+	{
+		"Countries and Regions": "Tunisia",
+		"Chinese Name": "突尼斯",
+		"ISO 2": "TN",
+		"Mobile Zone": "216",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Turkey",
+		"Chinese Name": "土耳其",
+		"ISO 2": "TR",
+		"Mobile Zone": "90",
+		"Time Zone": "-6"
+	},
+	{
+		"Countries and Regions": "Turkmenistan",
+		"Chinese Name": "土库曼斯坦",
+		"ISO 2": "TM",
+		"Mobile Zone": "993",
+		"Time Zone": "-5"
+	},
+	{
+		"Countries and Regions": "Uganda",
+		"Chinese Name": "乌干达",
+		"ISO 2": "UG",
+		"Mobile Zone": "256",
+		"Time Zone": "-5"
+	},
+	{
+		"Countries and Regions": "Ukraine",
+		"Chinese Name": "乌克兰",
+		"ISO 2": "UA",
+		"Mobile Zone": "380",
+		"Time Zone": "-5"
+	},
+	{
+		"Countries and Regions": "United Arab Emirates",
+		"Chinese Name": "阿拉伯联合酋长国",
+		"ISO 2": "AE",
+		"Mobile Zone": "971",
+		"Time Zone": "-4"
+	},
+	{
+		"Countries and Regions": "United Kiongdom",
+		"Chinese Name": "英国",
+		"ISO 2": "GB",
+		"Mobile Zone": "44",
+		"Time Zone": "-8"
+	},
+	{
+		"Countries and Regions": "United States of America",
+		"Chinese Name": "美国",
+		"ISO 2": "US",
+		"Mobile Zone": "1",
+		"Time Zone": "-13"
+	},
+	{
+		"Countries and Regions": "Uruguay",
+		"Chinese Name": "乌拉圭",
+		"ISO 2": "UY",
+		"Mobile Zone": "598",
+		"Time Zone": "-10.3"
+	},
+	{
+		"Countries and Regions": "Uzbekistan",
+		"Chinese Name": "乌兹别克斯坦",
+		"ISO 2": "UZ",
+		"Mobile Zone": "233",
+		"Time Zone": "-5"
+	},
+	{
+		"Countries and Regions": "Venezuela",
+		"Chinese Name": "委内瑞拉",
+		"ISO 2": "VE",
+		"Mobile Zone": "58",
+		"Time Zone": "-12.3"
+	},
+	{
+		"Countries and Regions": "Vietnam",
+		"Chinese Name": "越南",
+		"ISO 2": "VN",
+		"Mobile Zone": "84",
+		"Time Zone": "-1"
+	},
+	{
+		"Countries and Regions": "Yemen",
+		"Chinese Name": "也门",
+		"ISO 2": "YE",
+		"Mobile Zone": "967",
+		"Time Zone": "-5"
+	},
+	{
+		"Countries and Regions": "Yugoslavia",
+		"Chinese Name": "南斯拉夫",
+		"ISO 2": "YU",
+		"Mobile Zone": "381",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Zimbabwe",
+		"Chinese Name": "津巴布韦",
+		"ISO 2": "ZW",
+		"Mobile Zone": "263",
+		"Time Zone": "-6"
+	},
+	{
+		"Countries and Regions": "Zaire",
+		"Chinese Name": "扎伊尔",
+		"ISO 2": "ZR",
+		"Mobile Zone": "243",
+		"Time Zone": "-7"
+	},
+	{
+		"Countries and Regions": "Zambia",
+		"Chinese Name": "赞比亚",
+		"ISO 2": "ZM",
+		"Mobile Zone": "260",
+		"Time Zone": "-6"
+	}
+]
