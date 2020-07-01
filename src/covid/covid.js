@@ -6,8 +6,8 @@ if(!args['-dt']) {
 
 
 const items = require(`./${args['-dt']}/world_timeline.json`);
-const codes = require('../../iso/iso_codes.json');
-const local = require('../../iso/iso_china.json');
+const codes = require('../../public/iso/iso_codes.json');
+const local = require('../../public/iso/iso_china.json');
 
 const CODE_MAPPING = {};
 const DATE_MAPPING = {};
