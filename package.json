@@ -18,5 +18,8 @@
   "homepage": "https://github.com/MurphyL/visual.x#readme",
   "devDependencies": {
     "argsparser": "0.0.7"
+  },
+  "dependencies": {
+    "dataframe-js": "^1.4.3"
   }
 }
