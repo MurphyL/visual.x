@@ -1,10 +1,19 @@
 var args = require( "argsparser" ).parse();
 
-if(!args['-dt']) {
+const dt = args['-dt'];
+if(!dt) {
 	throw '请使用【-dt】指定数据日期';
 }
 
-const items = require(`./${args['-dt']}/world_timeline.json`);
+const fs = require('fs');
+const path = require('path');
+const targetDir = path.join(process.cwd(), 'dist');
+
+if(!fs.existsSync(targetDir)) {
+	fs.mkdirSync(targetDir);
+}
+
+const items = require(`./${dt}/world_timeline.json`);
 const codes = require('../../public/iso/iso_codes.json');
 const local = require('../../public/iso/iso_china.json');
 
@@ -49,5 +58,7 @@ const df = new DataFrame(Object.values(result), [
     ...Array.from(dts).sort()
 ]);
 
-df.toCSV(true, 'myfile.csv');
+
+
+df.toCSV(true, path.join(targetDir, `covid-${dt}.csv`));
 // console.log('DEMO：', JSON.stringify(result[0], null, '\t'));
